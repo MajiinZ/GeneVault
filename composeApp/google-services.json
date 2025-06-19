@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107769192056",
+    "project_id": "genevault-463405",
+    "storage_bucket": "genevault-463405.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107769192056:android:ac1837322e98b10a96978d",
+        "android_client_info": {
+          "package_name": "org.mz.genevault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbldsvJt_NoMG3wimmAFCxGfJ5aWxywyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
